@@ -8,12 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* TravelAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TravelAppTests.m */; };
+		03DCD6D4060446869A81102E /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06DE9D985DFC41F2A52FA615 /* Poppins-SemiBoldItalic.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-TravelApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-TravelApp.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		180F7E86DFCC4176B09D1047 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E873F83D98D1434C8CA466FA /* Poppins-BoldItalic.ttf */; };
+		18E530941201445FB07EAD9E /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3585B432E00240C5BF5BE9E0 /* Poppins-BlackItalic.ttf */; };
+		303561D4FFAD40A693810D22 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B09BBA7F43664626B34456F4 /* Poppins-Bold.ttf */; };
+		34DFE0A65AD645DA98669AEB /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 143EF5F049A9440E8ECB9C10 /* Poppins-Medium.ttf */; };
+		34FA6BED2B7448AC92783651 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B9166B5AE224984AE253A72 /* Poppins-Light.ttf */; };
+		4B41086CABD64DD5B59BD2F1 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A7E0B546C72432CBC4329E2 /* Poppins-SemiBold.ttf */; };
+		518E3E44EDD34E81A7C52145 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E012F197E8E4B42B243FBAC /* Poppins-Black.ttf */; };
+		56118C3116974EF285F8161B /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 02556655138F4C6BA83514C0 /* Poppins-Thin.ttf */; };
+		5C89C2365E444F26810EB598 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3623EE7EF21341B6BE97EEE2 /* Poppins-MediumItalic.ttf */; };
+		5E4CFADFB9764F90854BE914 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B03D60B6AB3C487B877D5AE6 /* Poppins-ThinItalic.ttf */; };
+		70826D8FF3AF471297ABB595 /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B8E2BE519FF4CED9DA39C09 /* Poppins-LightItalic.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-TravelApp-TravelAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-TravelApp-TravelAppTests.a */; };
+		7B703D08B82D44CFB40FF6AC /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DE434B7BA6042B180F11505 /* Poppins-Regular.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A82847E106E5495291E36B81 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 352F71D8DFC749C097E819D7 /* Poppins-ExtraLight.ttf */; };
+		AF189207CD944FBC8B1C9FCF /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DFFB75DF727E4B039D2C10D2 /* Poppins-ExtraLightItalic.ttf */; };
+		C478957BCD4E90A3FEC04D8E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E62A564BBBCBD7EC9FC2848F /* PrivacyInfo.xcprivacy */; };
+		DD2867507FC34B4DAAF23C9F /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6AA85C663DFF487DB13F91A5 /* Poppins-Italic.ttf */; };
+		F1DDC7DE4CBF4933BBB1B7A8 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 852F5115750D4BEBB19FD64E /* Poppins-ExtraBoldItalic.ttf */; };
+		F8EA298C1B454705802D94E4 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B3502FBB6CE4AA586712938 /* Poppins-ExtraBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +49,9 @@
 		00E356EE1AD99517003FC87E /* TravelAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravelAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* TravelAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TravelAppTests.m; sourceTree = "<group>"; };
+		02556655138F4C6BA83514C0 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Thin.ttf"; path = "../src/assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		06DE9D985DFC41F2A52FA615 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		0B8E2BE519FF4CED9DA39C09 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../src/assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* TravelApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = TravelApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = TravelApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -37,13 +59,29 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = TravelApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = TravelApp/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = TravelApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		143EF5F049A9440E8ECB9C10 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-TravelApp-TravelAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TravelApp-TravelAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		352F71D8DFC749C097E819D7 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLight.ttf"; path = "../src/assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		3585B432E00240C5BF5BE9E0 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../src/assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		3623EE7EF21341B6BE97EEE2 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-MediumItalic.ttf"; path = "../src/assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		3B3502FBB6CE4AA586712938 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../src/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-TravelApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TravelApp.debug.xcconfig"; path = "Target Support Files/Pods-TravelApp/Pods-TravelApp.debug.xcconfig"; sourceTree = "<group>"; };
+		4B9166B5AE224984AE253A72 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-TravelApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TravelApp.release.xcconfig"; path = "Target Support Files/Pods-TravelApp/Pods-TravelApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-TravelApp-TravelAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TravelApp-TravelAppTests.debug.xcconfig"; path = "Target Support Files/Pods-TravelApp-TravelAppTests/Pods-TravelApp-TravelAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-TravelApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TravelApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DE434B7BA6042B180F11505 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		6A7E0B546C72432CBC4329E2 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		6AA85C663DFF487DB13F91A5 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../src/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = TravelApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		852F5115750D4BEBB19FD64E /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-TravelApp-TravelAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TravelApp-TravelAppTests.release.xcconfig"; path = "Target Support Files/Pods-TravelApp-TravelAppTests/Pods-TravelApp-TravelAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9E012F197E8E4B42B243FBAC /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../src/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
+		B03D60B6AB3C487B877D5AE6 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ThinItalic.ttf"; path = "../src/assets/fonts/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		B09BBA7F43664626B34456F4 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		DFFB75DF727E4B039D2C10D2 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		E62A564BBBCBD7EC9FC2848F /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = TravelApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		E873F83D98D1434C8CA466FA /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../src/assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -94,6 +132,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				E62A564BBBCBD7EC9FC2848F /* PrivacyInfo.xcprivacy */,
 			);
 			name = TravelApp;
 			sourceTree = "<group>";
@@ -124,6 +163,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				B5D31F635E8D42798560120A /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -137,6 +177,31 @@
 				00E356EE1AD99517003FC87E /* TravelAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B5D31F635E8D42798560120A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9E012F197E8E4B42B243FBAC /* Poppins-Black.ttf */,
+				3585B432E00240C5BF5BE9E0 /* Poppins-BlackItalic.ttf */,
+				B09BBA7F43664626B34456F4 /* Poppins-Bold.ttf */,
+				E873F83D98D1434C8CA466FA /* Poppins-BoldItalic.ttf */,
+				3B3502FBB6CE4AA586712938 /* Poppins-ExtraBold.ttf */,
+				852F5115750D4BEBB19FD64E /* Poppins-ExtraBoldItalic.ttf */,
+				352F71D8DFC749C097E819D7 /* Poppins-ExtraLight.ttf */,
+				DFFB75DF727E4B039D2C10D2 /* Poppins-ExtraLightItalic.ttf */,
+				6AA85C663DFF487DB13F91A5 /* Poppins-Italic.ttf */,
+				4B9166B5AE224984AE253A72 /* Poppins-Light.ttf */,
+				0B8E2BE519FF4CED9DA39C09 /* Poppins-LightItalic.ttf */,
+				143EF5F049A9440E8ECB9C10 /* Poppins-Medium.ttf */,
+				3623EE7EF21341B6BE97EEE2 /* Poppins-MediumItalic.ttf */,
+				5DE434B7BA6042B180F11505 /* Poppins-Regular.ttf */,
+				6A7E0B546C72432CBC4329E2 /* Poppins-SemiBold.ttf */,
+				06DE9D985DFC41F2A52FA615 /* Poppins-SemiBoldItalic.ttf */,
+				02556655138F4C6BA83514C0 /* Poppins-Thin.ttf */,
+				B03D60B6AB3C487B877D5AE6 /* Poppins-ThinItalic.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -245,6 +310,25 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				C478957BCD4E90A3FEC04D8E /* PrivacyInfo.xcprivacy in Resources */,
+				518E3E44EDD34E81A7C52145 /* Poppins-Black.ttf in Resources */,
+				18E530941201445FB07EAD9E /* Poppins-BlackItalic.ttf in Resources */,
+				303561D4FFAD40A693810D22 /* Poppins-Bold.ttf in Resources */,
+				180F7E86DFCC4176B09D1047 /* Poppins-BoldItalic.ttf in Resources */,
+				F8EA298C1B454705802D94E4 /* Poppins-ExtraBold.ttf in Resources */,
+				F1DDC7DE4CBF4933BBB1B7A8 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				A82847E106E5495291E36B81 /* Poppins-ExtraLight.ttf in Resources */,
+				AF189207CD944FBC8B1C9FCF /* Poppins-ExtraLightItalic.ttf in Resources */,
+				DD2867507FC34B4DAAF23C9F /* Poppins-Italic.ttf in Resources */,
+				34FA6BED2B7448AC92783651 /* Poppins-Light.ttf in Resources */,
+				70826D8FF3AF471297ABB595 /* Poppins-LightItalic.ttf in Resources */,
+				34DFE0A65AD645DA98669AEB /* Poppins-Medium.ttf in Resources */,
+				5C89C2365E444F26810EB598 /* Poppins-MediumItalic.ttf in Resources */,
+				7B703D08B82D44CFB40FF6AC /* Poppins-Regular.ttf in Resources */,
+				4B41086CABD64DD5B59BD2F1 /* Poppins-SemiBold.ttf in Resources */,
+				03DCD6D4060446869A81102E /* Poppins-SemiBoldItalic.ttf in Resources */,
+				56118C3116974EF285F8161B /* Poppins-Thin.ttf in Resources */,
+				5E4CFADFB9764F90854BE914 /* Poppins-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -468,6 +552,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2LTC33RC8A;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = TravelApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -481,9 +566,15 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = en.react.native.TravelApp;
 				PRODUCT_NAME = TravelApp;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -495,6 +586,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2LTC33RC8A;
 				INFOPLIST_FILE = TravelApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -507,8 +599,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = en.react.native.TravelApp;
 				PRODUCT_NAME = TravelApp;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -517,6 +615,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -544,6 +643,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				CXX = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -563,6 +663,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -582,7 +684,11 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -590,6 +696,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -617,6 +724,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				CXX = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -629,6 +737,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -647,7 +757,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
