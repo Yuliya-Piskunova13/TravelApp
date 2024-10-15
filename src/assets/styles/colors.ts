@@ -17,10 +17,13 @@ const COLORS = {
   gray00: '#FFFFFF',
   gray05: '#F3F4F6',
   gray10: '#E5E7EB',
-  gray20: '#E5E7EB',
+  gray20: '#D1D5D8',
   gray60: '#9CA3AF',
   gray70: '#6B7280',
   gray100: '#111827',
+
+  // Black colors
+  black00: '#000',
 };
 
 export default COLORS;

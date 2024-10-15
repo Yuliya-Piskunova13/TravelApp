@@ -1,6 +1,9 @@
 import React from 'react';
 import { View, Text, Image } from 'react-native';
+import FastImage from 'react-native-fast-image'
+
 import styles from './styles';
+import { HOTEL_DETAILS_TEXTS } from './texts';
 
 interface HotelInfoProps {
   name: string;
@@ -14,10 +17,10 @@ const HotelInfo: React.FC<HotelInfoProps> = ({
   imageUrl,
 }) => {
   return (
-    <View style={styles.hotelInfoContainer}>
-      <Image source={{ uri: imageUrl }} style={styles.hotelImage} />
+    <View>
+      <FastImage source={{ uri: imageUrl }} style={styles.hotelImage} />
       <Text style={styles.hotelName}>{name}</Text>
-      <Text style={styles.overviewText}>Overview</Text>
+      <Text style={styles.overviewText}>{HOTEL_DETAILS_TEXTS.overview}</Text>
       <Text style={styles.hotelDescription}>{description}</Text>
     </View>
   );

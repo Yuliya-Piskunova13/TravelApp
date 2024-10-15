@@ -21,17 +21,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  backButtonText: {
-    fontSize: 24,
-    color: 'black',
-  },
   scrollContent: {
     paddingTop: 0,
     alignItems: 'center',
     flexGrow: 1,
     paddingBottom: 116,
   },
-  hotelInfoContainer: {},
   overviewText: {
     paddingBottom: 16,
     paddingHorizontal: 16,
@@ -61,7 +56,7 @@ const styles = StyleSheet.create({
     right: 0,
     height: 96,
     backgroundColor: COLORS.gray00,
-    shadowColor: '#000',
+    shadowColor: COLORS.black00,
     shadowOffset: {
       width: 0,
       height: 2,

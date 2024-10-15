@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     ...GLOBAL_FONTS.bodyMSemibold,
-    color: 'white',
+    color: COLORS.gray00,
   },
 });
 

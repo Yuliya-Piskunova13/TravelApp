@@ -11,7 +11,6 @@ const styles = StyleSheet.create({
     borderRadius: 6,
     alignItems: 'center',
     justifyContent: 'center',
-    height: 18,
     width: 48
   },
   dollarSign: {

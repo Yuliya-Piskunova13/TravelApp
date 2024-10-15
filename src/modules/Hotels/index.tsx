@@ -36,13 +36,13 @@ const Hotels: React.FC = () => {
   if (error) {
     return (
       <View style={styles.container}>
-        <Text>Произошла ошибка: {error.message}</Text>
+        <Text>Error: {error.message}</Text>
       </View>
     );
   }
 
   const handlePress = (hotel: Hotel) => {
-    navigation.navigate(ROUTES.HOTEL_DETAILS, {hotel});
+    navigation.navigate(ROUTES.HOTEL_DETAILS, { hotel });
   };
 
   const handleViewPrices = () => {

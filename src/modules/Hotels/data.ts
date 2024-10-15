@@ -9,7 +9,8 @@ export const HOTELS: Hotel[] = [
     distance: 8,
     price: '$$',
     rating: 7.6,
-    description: 'Welcome to Hilton Garden Inn Manchester Emirates Old Trafford, your premier destination for luxury accommodation in the heart of Manchester. Situated adjacent to the iconic Emirates Old Trafford cricket ground.',
+    description:
+      'Welcome to Hilton Garden Inn Manchester Emirates Old Trafford, your premier destination for luxury accommodation in the heart of Manchester. Situated adjacent to the iconic Emirates Old Trafford cricket ground.',
   },
   {
     id: '2',

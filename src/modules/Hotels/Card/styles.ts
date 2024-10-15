@@ -2,7 +2,6 @@ import {StyleSheet} from 'react-native';
 
 import COLORS from '../../../assets/styles/colors';
 import GLOBAL_FONTS from '../../../assets/styles/globalFonts';
-import { Colors } from 'react-native/Libraries/NewAppScreen';
 
 const styles = StyleSheet.create({
   card: {
@@ -43,11 +42,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-  },
-  price: {
-    fontSize: 14,
-    color: COLORS.secondary100,
-    fontWeight: 'bold',
   },
   rating: {
     flexDirection: 'row',
