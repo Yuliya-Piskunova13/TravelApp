@@ -42,7 +42,7 @@ const GLOBAL_FONTS = {
   bodySRegular: createFontStyle(12, 18, 'Poppins-Regular'),
 
   // Tab Bar
-  tabBar: createFontStyle(11, 16, 'Poppins-Regular'),
+  tabBar: createFontStyle(11, 16, 'Poppins-Medium'),
 };
 
 export default GLOBAL_FONTS;
