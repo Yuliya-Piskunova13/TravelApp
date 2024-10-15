@@ -31,7 +31,8 @@ const styles = StyleSheet.create({
   },
   distanceText: {
     ...GLOBAL_FONTS.bodySMedium,
-    paddingLeft: 4
+    paddingLeft: 4,
+    color: COLORS.gray100
   },
   hotelName: {
     ...GLOBAL_FONTS.bodyMSemibold,

@@ -10,14 +10,14 @@ const COLORS = {
   secondary05: '#EEFAEB',
   secondary10: '#DDF6D7',
   secondary20: '#BBEFAD',
-  secondary100: '#1CE800',
+  secondary100: '#1C8E00',
   secondary140: '#186006',
 
   // Gray colors
   gray00: '#FFFFFF',
   gray05: '#F3F4F6',
   gray10: '#E5E7EB',
-  gray20: '#D1D5D8',
+  gray20: '#D1D5DB',
   gray60: '#9CA3AF',
   gray70: '#6B7280',
   gray100: '#111827',
